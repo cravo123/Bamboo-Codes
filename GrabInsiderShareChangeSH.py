@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 20 20:56:28 2015
-This code will scraping short-term trade of insider management from Shenzhen Exchange website, and save it to a csv file.
+This code will scrape short-term trade of insider management from Shenzhen Exchange website, and save it to a csv file.
 pth is the savind directory, the format is like 'C:\\Users\\Chong\\Desktop\\Bamboo Strategy\\InsiderTrade'
 startPage is where the scraping starts, and interval is how many pages this code will scrape.
 so in total this code will scrape [startPage, startPage + interval).
